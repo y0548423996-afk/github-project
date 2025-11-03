@@ -1,0 +1,17 @@
+body {
+    background-color: #e0f7fa; /* צבע רקע טורכיז בהיר */
+    color: #00796b; /* צבע טקסט */
+    font-family: Arial, sans-serif; /* גופן */
+}
+
+h1 {
+    color: #004d40; /* צבע כותרת */
+    text-align: center; /* מיקום הכותרת במרכז */
+}
+h2{
+    color: black;
+    font: xx-large;
+}
+
+
+
